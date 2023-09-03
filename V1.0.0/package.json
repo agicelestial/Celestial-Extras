@@ -1,0 +1,10 @@
+{
+    "id": "CXtras",
+    "name": "Celestial Extras",
+    "version": "1.0.0",
+    "author": "Agi Celestial",
+    "url": "",
+    "description": "",
+    "main": "./main.js",
+    "image": "icon.png"
+}
